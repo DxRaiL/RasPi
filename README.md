@@ -1,3 +1,3 @@
 # RasPi
 
-Various Raspberry Pi projects and tinkering
+For future projects and most of the stuff I'm just playing with
